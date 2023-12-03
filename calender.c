@@ -119,62 +119,62 @@ switch(mon){
 
 case 1:
     printf("JANUARY\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 2:
     printf("FEBRUARY\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 3:
     printf("MARCH\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 4:
     printf("APRIL\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 5:
     printf("MAY\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 6:
     printf("JUNE\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 7:
     printf("JULY\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 8:
     printf("AUGUST\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 9:
     printf("SEPTEMBER\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 10:
     printf("OCTOBER\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 11:
     printf("NOVEMBER\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 case 12:
     printf("DECEMBER\n");
-    printf("------------------------------------------");
+    printf("---------------------------");
     printf("\n");
     break;
 default:
